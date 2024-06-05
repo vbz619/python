@@ -1,2 +1,1 @@
-prin("Jay Shree .. ........")
-rzjn lubr hcyl fgtw
+print("Jay Shree .. ........")
